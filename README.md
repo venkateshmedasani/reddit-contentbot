@@ -11,7 +11,7 @@ Code Screenshot:
 ![Screenshot (2887)](https://github.com/user-attachments/assets/d85602e7-1431-442e-8bb2-15a887568482)
 
 Output Screenshots:
-![WhatsApp Image 2025-01-15 at 16 38 21_e03f5b7d](https://github.com/user-attachments/assets/0c7e2662-27d1-4c7d-9172-595992ca0113
+![WhatsApp Image 2025-01-15 at 16 38 21_e03f5b7d](https://github.com/user-attachments/assets/0c7e2662-27d1-4c7d-9172-595992ca0113)
 ![WhatsApp Image 2025-01-15 at 16 38 21_a5ed13d3](https://github.com/user-attachments/assets/01d0c1a9-9511-4353-913c-f582e4cd9331)
 
 Posts are deleted because as this is a test account that is newly created, my karma count on reddit is low. Not a technical error
