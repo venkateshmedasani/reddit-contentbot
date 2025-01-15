@@ -8,7 +8,11 @@ This is a bot that generates insightful posts and comments for Reddit using Groq
 5) Note: Post title and content details can be adjusted in the code as can the posting time in the keys.env file. This is just for sample
 
 Code Screenshot:
+
+![Screenshot (2886)](https://github.com/user-attachments/assets/1a36daf0-e529-49e9-82fb-896988e4ef13)
+
 ![Screenshot (2887)](https://github.com/user-attachments/assets/d85602e7-1431-442e-8bb2-15a887568482)
+
 
 Output Screenshots:
 
